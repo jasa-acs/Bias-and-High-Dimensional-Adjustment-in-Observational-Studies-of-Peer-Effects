@@ -1,0 +1,17 @@
+# col_name          data_type                   comment
+
+k                   string              	None
+model               string              	None
+r                   int              	        None
+pop_bucket          int              	        None
+pop_measure         string              	None
+p_0                 double              	None
+p_0_exp             double              	None
+p_1                 double              	None
+p_diff              double              	None
+p_diff_error        double              	None
+n_1                 double              	None
+rr                  double              	None
+rr_exp              double              	None
+rr_rel_error        double              	None
+p_diff_exp          double              	None

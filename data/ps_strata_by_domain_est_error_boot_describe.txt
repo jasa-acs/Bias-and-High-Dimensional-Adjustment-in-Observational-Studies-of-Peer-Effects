@@ -1,0 +1,32 @@
+# col_name            	data_type           	comment             
+	 	 
+c                   	string              	None                
+r                   	string              	None                
+k                   	string              	None                
+domain              	string              	None                
+domain_treated_n    	bigint              	None                
+domain_control_n    	bigint              	None                
+domain_exp_control_n	bigint              	None                
+domain_treated_n_with_sds	bigint              	None                
+domain_obs_control_n_with_sds	bigint              	None                
+num_users_us        	string              	None                
+model               	string              	None                
+shared_url_p_0      	double              	None                
+n_1                 	double              	None                
+n_0                 	double              	None                
+shared_url_p_1_full 	double              	None                
+shared_url_p_0_exp  	double              	None                
+shared_url_p_0_obs  	double              	None                
+n_1_exp             	double              	None                
+n_0_exp             	double              	None                
+n_0_obs             	double              	None                
+rr                  	double              	None                
+rr_exp              	double              	None                
+rr_obs              	double              	None                
+p_diff              	double              	None                
+p_diff_exp          	double              	None                
+p_diff_obs          	double              	None                
+p_diff_error        	double              	None                
+p_diff_obs_error    	double              	None                
+p_diff_rel_error    	double              	None                
+p_diff_rel_error_cfo	double              	None                
